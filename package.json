@@ -1,0 +1,20 @@
+{
+  "name": "shutdownable",
+  "version": "0.0.1",
+  "description": "Decorate a Class, adding (or modifying) an async shutdown method which awaits calls for specified methods to complete and preventing future calls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikuso/shutdownable.git"
+  },
+  "author": "Gareth Hughes",
+  "bugs": {
+    "url": "https://github.com/mikuso/shutdownable/issues"
+  },
+  "homepage": "https://github.com/mikuso/shutdownable#readme",
+  "keywords": [],
+  "license": "ISC"
+}
